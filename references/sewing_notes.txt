@@ -1,0 +1,94 @@
+
+- :inbox_tray: <b>Inbox</b>
+    - test
+      "dada"
+    - export notes
+- Sewing
+    - Suppliers
+         - https://www.profabrics.co.uk/
+         - https://www.pennineoutdoor.co.uk/
+         - http://www.ripstopshop.co.uk/
+         - https://www.shelbyoutdoor.com/?cPath=402_22_91
+         - https://www.ebay.co.uk/itm/Dyneema-2mm-Various-Colours-English-Braids-Per-10-Metres-/251320330518?var=&amp;hash=item3a83dbe916:m:mMuo60Nn5FptnHCYrCgCAMQ
+         - US
+              - https://ripstopbytheroll.com
+         - Discussions
+              - http://www.trek-lite.com/index.php?threads/material-suppliers-a-thread-for-suppliers-and-material-types.934/page-17
+    - Inspirations
+         - http://www.trek-lite.com/index.php?threads/the-what-have-you-made-today-thread.1733/page-3
+         - 
+    - Technique
+         - http://www.trek-lite.com/index.php?threads/tips-and-techniques-a-thread-for-myog-types.2566/
+         - http://web.archive.org/web/20140516232508/http://backpacking-lite.co.uk/
+         - Forums
+              - http://www.trek-lite.com/index.php?forums/diy-myog.28/
+         - Seam sealing
+              - https://backpackinglight.com/make_your_own_gear_sealing_silnylon_seams/
+         - Sewing silnylon
+              - SEAMS http://thru-hiker.com/projects/basic_seams.php
+              - Sewing
+                   - use “taut sewing”: apply tension to the fabric with your hands, in front of and in back of the needle. The object is to tension the fabric, not pull it through.
+                   - use a good quality polyester thread
+                   - a walking foot (even feed) is a very helpful accessory
+                   - Use a #80 or 90 needle and make sure it is new and sharp
+              - Pinning
+                   - glue stick
+                   - binder clips
+                   - pins in seam allowance
+              - Cutting
+                   - use SHARP shears.
+                   - try hot cutting two layers with a soldering iron, using a sheet of glass underneath. This will seal your cut edge so it won’t ravel, and if your two edges are going to be seamed anyway it will hold them together.
+                   - rotary cutter with mat
+              - Seam idea
+                   - Plain Hem: fold 3/4″ twice and edgestitch.
+                   - Mock flat fell seam: illustrated here. To make a “mock” felled seam, use a 1″and 1/2″ seam allowances, and fold the longer one around, then top stitch
+                   - Seam illustrated at Ayce’s Workshop
+         - Sewing Cuben
+              - Bonding : research aquaseal
+         - Rolled hem
+              - https://www.youtube.com/watch?v=nWIp401KHKg
+              - https://www.youtube.com/watch?v=e3e72g6gKS4
+         - Watch all
+         - https://backpackinglight.com/make_your_own_gear_5_yards_to_sul_part_1/
+         - https://diygearsupply.com/wp-content/uploads/2013/10/DIYGS-Seams-Binding-lowres.jpg
+         - 
+         - https://www.reddit.com/r/myog/comments/6v8wlr/silpoly_tarp_is_there_a_best_stitch/
+         - sewing ridgeline : https://www.backpacking.net/makegear/cat-tarp/index.html
+         - patterns :
+              - https://growyourownclothes.com/2014/10/30/tips-for-pattern-drafting-with-inkscape/
+    - https://backpackinglight.com/forums/topic/reference-resource-index/#post-3511545
+    - SILPOLY STITCHESgreed on roughly 3mm stitch (8-9 stitches per inch) : Agreed on roughly 3mm stitch (8-9 stitches per inch). And straight stitch works fine, silpoly can perforate but it doesn't do so nearly as readily as DCF/cuben fiber does.One thing to note is that excessive thread tension can cause your seams to shorten just a little bit. Then the sides of the tarp can be a little loose even when the tarp is pitched taught. This happened with my first silpoly project.The best way to prevent that is not to stretch out the seam while sewing it, let the fabric feed into your machine naturally. And err on the side of lower thread tension. Drop the bobbin tension as low as it can go while still hanging on (if you hang the bobbin by the thread it should hold steady at rest, but drop a bit when swung slightly). Then adjust top tension to get a balanced stitch.
+    - Shelter project
+         - Inspiration
+              - Nettent http://www.bearpawwd.com/net_tents/minimalist_1.php #pattern
+              - https://backpackinglight.com/forums/topic/21868/
+              - MYOG bug bivy very good : https://imgur.com/a/UNHB8 #pattern
+              - MLD bug bivy https://mountainlaureldesigns.com/product/bug-bivy-2/
+                   - https://www.google.com/imgres?imgurl=https%3A%2F%2Fbackpackinglight.com%2Fwp-content%2Fuploads%2Fbpfed%2FIMG_20180825_123153874.jpg&amp;imgrefurl=https%3A%2F%2Ftheendivechronicles.com%2Fmld-bug-bivy.html&amp;docid=LOf4dG4ZnJgnEM&amp;tbnid=by7hOS43eFHZcM%3A&amp;vet=10ahUKEwiD5rml6dTgAhVAwcQBHXutApQQMwhXKAwwDA..i&amp;w=632&amp;h=891&amp;client=firefox-b-d&amp;bih=944&amp;biw=1920&amp;q=MLD%20BUG%20BIVY%202&amp;ved=0ahUKEwiD5rml6dTgAhVAwcQBHXutApQQMwhXKAwwDA&amp;iact=mrc&amp;uact=8
+              - Cesar's dimma : http://cesarandthewoods.blogspot.com/2016/02/borah-gear-bivies-double-reviews-long.html?m=1
+              - Details of a custom tent : https://imgur.com/a/q9Q2v
+              - https://www.yamamountaingear.com/diy/net-tent/
+         - http://thru-hiker.com/projects/tarptent.php
+         - Discussion
+              - BPL Pyramid Tarptent with Removable Floor : https://backpackinglight.com/forums/topic/77394/
+              - 
+         - Other
+              - Interesting fabric : https://www.extremtextil.de/en/tyvek-reflex-softstructure-3460m-aluminium-coated-uv-restistant-60-sqm.html
+              - WPB aliexpress : https://www.aliexpress.com/item/Supply-DIY-Light-Thinner-Fabric-for-inner-Tent-10D-Nylon-Fabric-with-Super-WR-Breathable/32609424157.html?spm=2114.search0104.3.16.24c06c45uHP0jC&amp;ws_ab_test=searchweb0_0,searchweb201602_4_10065_10068_319_10892_317_10696_10084_453_454_10083_10618_10304_10307_10820_10821_537_10302_536_10902_10843_10059_10884_10887_321_322_10103,searchweb201603_35,ppcSwitch_0&amp;algo_expid=da3cc140-4b4c-425d-8909-02a8a606ecd2-2&amp;algo_pvid=da3cc140-4b4c-425d-8909-02a8a606ecd2&amp;transAbTest=ae803_3
+         - Seams between all parts of the tent : https://yamamountaingear.com/pages/french-seam
+              - Relatively easy, no weird folding or tucking under, and strong enough for the application.
+              - Seam allowance must twice the width of the "flap" of fabric. 1 go for &amp;
+    - One thing to note is that excessive thread tension can cause your seams to shorten just a little bit. Then the sides of the tarp can be a little loose even when the tarp is pitched taught. This happened with my first silpoly project.
+    - The best way to prevent that is not to stretch out the seam while sewing it, let the fabric feed into your machine naturally. And err on the side of lower thread tension. Drop the bobbin tension as low as it can go while still hanging on (if you hang the bobbin by the thread it should hold steady at rest, but drop a bit when swung slightly). Then adjust top tension to get a balanced stitch.
+    - Tarp project
+         - https://backpackinglight.com/forums/topic/21868/
+         - https://www.reddit.com/r/myog/comments/6v8wlr/silpoly_tarp_is_there_a_best_stitch/
+- BAG
+    - https://backpackinglight.com/myog-pack-design-chenault/
+    - https://backpackinglight.com/myog_backpacks_2011/
+    - matieres :100:
+         - https://www.reddit.com/r/myog/comments/brefk4/hex70_pack_autopsy_and_review/?utm_source=share&amp;utm_medium=ios_app
+         - https://www.reddit.com/r/myog/comments/bzu3ut/fabric_durability_choices/
+- https://github.com/HummingbirdHammocks
+- PONCHO
+    - https://backpackinglight.com/myog_mntn_poncho/
